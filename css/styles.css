@@ -1,0 +1,220 @@
+/* TODO:
+        - División de archivos CSS (variables, componentes) 
+        - Aplicación de nomenclatura BEM
+        - Pasar fonts de px a rem
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
+
+:root {
+    --gray1-color: #828282;
+    --gray2-color: #4F4F4F;
+    --gray3-color: #C4C4C4;
+    --blue-color: #2F80ED;
+    --bg-color: #F3EBEB;
+    --white-color: #FFFFFF;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Montserrat; 
+}
+
+li{
+    list-style: none;
+}
+
+/* Hide desktop view elements */
+#desktop {
+    display: none;
+}
+
+#mobile {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: var(--bg-color);
+    padding: 16px;
+    align-items: center;
+}
+
+#mobile > * {
+    background-color: var(--white-color);
+    border-radius: 12px;
+    padding: 16px;
+    align-self: stretch;
+}
+
+/* Profile (mobile version) */
+#profile-portrait {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+}
+
+#profile-picture-portrait {
+    width: 350px;
+    height: 340px;
+    object-fit: cover;
+    object-position: 0% 20%;
+    flex-shrink: 0;
+    border-radius: 12px;
+}
+
+#profile-info-portrait {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.frame-name-job {
+    display: flex;
+    padding: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.job-title {
+    color: var(--gray1-color);
+
+    font-size: 18px;
+}
+
+.frame-contact {
+    display: flex;
+    padding: 8px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.email, .phone {
+    font-size: 18px;
+}
+
+#introduction-portrait {
+    color: var(--gray1-color);
+
+    /* Texto */
+    font-size: 18px;
+}
+/* End of Profile (mobile version) */
+
+/* Skills (mobile vesrion)*/
+#skills-portrait {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+}
+
+#skills-portrait>h1{
+    color: var(--gray2-color);
+
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+
+    /* Titulo */
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#skills-portrait>div{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+}
+
+#skills-portrait>div>ul {
+    display: flex;
+    padding: 8px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+}
+
+#skills-portrait>div>ul>li {
+    color: var(--gray, #828282);
+
+    font-size: 24px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+}
+
+/*      Skill bars */
+#skills-portrait>div>ul>li>span {
+    display: inline-block;
+    width: 260px;
+    height: 10px;
+    background: var(--gray3-color);
+}
+
+.skill-bar-html {
+    display: inline-block;
+    position: absolute;
+    width: 230px;
+    height: 10px;
+    background: var(--blue-color);
+}
+
+.skill-bar-css {
+    display: inline-block;
+    position: absolute;
+    width: 201px;
+    height: 10px;
+    background: var(--blue-color);
+}
+
+.skill-bar-js {
+    display: inline-block;
+    position: absolute;
+    width: 230px;
+    height: 10px;
+    background: var(--blue-color);
+}
+
+.skill-bar-react {
+    display: inline-block;
+    position: absolute;
+    width: 201px;
+    height: 10px;
+    background: var(--blue-color);
+}
+
+/*      End of Skill bars */
+/* End of Skills (mobile vesrion)*/
+/* TODO:
+    skills-portrait
+    proyects-select-1
+    development-portrait
+    experience-portrait
+    certificates-portrait
+*/
