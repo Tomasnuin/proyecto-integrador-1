@@ -1,0 +1,144 @@
+/* Skills (mobile vesrion)*/
+#skills {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    grid-area: skills;
+}
+
+#skills-title {
+    color: var(--gray2-color);
+
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+
+    /* Titulo */
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#skills-list {
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+}
+
+.skills-ul {
+    display: flex;
+    padding: 8px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.skills-ul>li {
+    color: var(--gray, #828282);
+
+    font-size: 1.5rem;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+}
+
+/*      Skill bars */
+.gray-bar {
+    display: flex;
+    width: 60.466%;
+    min-width: 179px;
+    max-width: 260px;
+    height: 10px;
+    background: var(--gray3-color);
+}
+
+.skill-bar-html {
+    position: absolute;
+    width: 46.56%;
+    min-width: 167px;
+    max-width: 230px;
+    height: inherit;
+    background: var(--blue-color);
+}
+
+.skill-bar-css {
+    position: absolute;
+    width: 40.689%;
+    min-width: 146px;
+    max-width: 201px;
+    height: inherit;
+    background: var(--blue-color);
+}
+
+.skill-bar-js {
+    position: absolute;
+    width: 46.56%;
+    min-width: 167px;
+    max-width: 230px;
+    height: inherit;
+    background: var(--blue-color);
+}
+
+.skill-bar-react {
+    position: absolute;
+    width: 40.689%;
+    min-width: 146px;
+    max-width: 201px;
+    height: inherit;
+    background: var(--blue-color);
+}
+
+/* End of Skills (mobile vesrion)*/
+
+@media only screen and (min-width: 1100px) {
+    #skills {
+        padding: unset;
+        align-items: unset;
+        gap: unset;
+
+        width: 44.25rem;
+        align-self: flex-start;
+    }
+
+    #skills-title {
+        display: block;
+        align-self: unset;
+
+        padding: 1rem;
+    }
+
+    #skills-list {
+        display: flex;
+        width: 29.6875rem;
+        padding: 0px 1rem;
+        margin-bottom: 3.19rem;
+        align-self: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #skills>div>ul {
+        display: flex;
+        padding: 8px 0px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        align-self: stretch;
+    }
+
+    #skills>div>ul>li {
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        align-self: stretch;
+    }
+
+}

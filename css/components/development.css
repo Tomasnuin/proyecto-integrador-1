@@ -1,0 +1,150 @@
+/* 
+TO DO:
+CLEAN THIS - VERY IMPORTANT!
+*/
+
+.development-frame {
+    display: flex;
+    height: 613px;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.project-image {
+    border-radius: 12px;
+    border: 1px solid var(--gray3-color);
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    flex: 1 0 0;
+}
+
+.project-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    flex: 1 0 0;
+}
+
+.project-tags-title {
+    display: flex;
+    padding: 0.5rem 0rem;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.project-tags {
+    width: 13.8125rem;
+    height: 1.1875rem;
+    color: var(--gray2-color);
+    font-weight: 600;
+}
+
+.project-title {
+    color: var(--black-color);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.project-description {
+    color: var(--gray, #828282);
+    font-size: 1.125rem;
+}
+
+.project-buttons {
+    display: flex;
+    gap: 16px;
+}
+
+.button-demo {
+    width: 135px;
+    height: 45px;
+    border-radius: 12px;
+    border: none;
+    background-color: var(--blue-color);
+
+    color: var(--white-color);
+    font-size: 1.125rem;
+}
+
+.button-code {
+    width: 135px;
+    height: 45px;
+    border-radius: 12px;
+    border: 1px solid var(--blue-color);
+    background-color: var(--white-color);
+
+    color: var(--blue-color);
+    font-size: 1.125rem;
+}
+
+
+@media only screen and (min-width: 1100px) {
+
+    .development-frame {
+        display: flex;
+        height: 613px;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .project-info {
+        flex: unset;
+    }
+
+    #section-development {
+        display: flex;
+        height: 645px;
+        justify-content: center;
+        align-items: center;
+        gap: 16px;
+        align-self: stretch;
+        width: 90.5rem;
+        grid-area: section-development;
+    }
+
+    .development-portrait-2 {
+        display: flex;
+        height: 645px;
+        padding: 16px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        align-self: stretch;
+
+        grid-area: development-portrait-2;
+    }
+
+
+    .development-frame {
+        display: flex;
+        height: 613px;
+        flex-direction: column;
+        gap: 16px;
+
+        grid-area: 'development';
+    }
+
+    .development-portrait {
+        height: 100%;
+
+        display: flex;
+        padding: 16px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex: 1 0 0;
+        align-self: stretch;
+    }
+
+    .development-frame-portrait {
+        display: flex;
+        width: 358px;
+        height: 613px;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+}

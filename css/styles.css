@@ -5,216 +5,88 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
+@import "variables.css";
 
-:root {
-    --gray1-color: #828282;
-    --gray2-color: #4F4F4F;
-    --gray3-color: #C4C4C4;
-    --blue-color: #2F80ED;
-    --bg-color: #F3EBEB;
-    --white-color: #FFFFFF;
-}
-
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: Montserrat; 
+    font-family: Montserrat;
 }
 
-li{
+li {
     list-style: none;
 }
 
-/* Hide desktop view elements */
-#desktop {
-    display: none;
-}
 
-#mobile {
-    display: inline-flex;
-    flex-direction: column;
-    gap: 24px;
+#portfolio {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-areas:
+        'profile'
+        'skills'
+        'select-proyect'
+        'development'
+        'experience'
+        'certificates';
     background-color: var(--bg-color);
-    padding: 16px;
-    align-items: center;
+    padding: 1rem;
+    justify-content: center;
 }
 
-#mobile > * {
+.mobile-view {
     background-color: var(--white-color);
-    border-radius: 12px;
-    padding: 16px;
-    align-self: stretch;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    width: 100%;
+    min-width: 328px;
+    max-width: 462px;
 }
 
-/* Profile (mobile version) */
-#profile-portrait {
-    display: flex;
-    padding: 16px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-self: stretch;
-}
-
-#profile-picture-portrait {
-    width: 350px;
-    height: 340px;
-    object-fit: cover;
-    object-position: 0% 20%;
-    flex-shrink: 0;
-    border-radius: 12px;
-}
-
-#profile-info-portrait {
-    display: flex;
-    padding: 16px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 24px;
-    flex: 1 0 0;
-    align-self: stretch;
-}
-
-.frame-name-job {
-    display: flex;
-    padding: 8px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 8px;
-}
-
-.name {
-    font-size: 24px;
-    font-weight: 600;
-}
-
-.job-title {
-    color: var(--gray1-color);
-
-    font-size: 18px;
-}
-
-.frame-contact {
-    display: flex;
-    padding: 8px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-}
-
-.email, .phone {
-    font-size: 18px;
-}
-
-#introduction-portrait {
-    color: var(--gray1-color);
-
-    /* Texto */
-    font-size: 18px;
-}
-/* End of Profile (mobile version) */
-
-/* Skills (mobile vesrion)*/
-#skills-portrait {
-    display: flex;
-    padding: 16px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
-    align-self: stretch;
-}
-
-#skills-portrait>h1{
-    color: var(--gray2-color);
-
-    display: flex;
-    align-items: center;
-    align-self: stretch;
-
-    /* Titulo */
-    font-size: 24px;
-    font-weight: 600;
-}
-
-#skills-portrait>div{
-    display: flex;
-    flex-direction: column;
-    align-self: stretch;
-}
-
-#skills-portrait>div>ul {
-    display: flex;
-    padding: 8px 0px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 8px;
-    align-self: stretch;
-}
-
-#skills-portrait>div>ul>li {
-    color: var(--gray, #828282);
-
-    font-size: 24px;
-    font-weight: 600;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    align-self: stretch;
-}
-
-/*      Skill bars */
-#skills-portrait>div>ul>li>span {
-    display: inline-block;
-    width: 260px;
-    height: 10px;
-    background: var(--gray3-color);
-}
-
-.skill-bar-html {
-    display: inline-block;
-    position: absolute;
-    width: 230px;
-    height: 10px;
-    background: var(--blue-color);
-}
-
-.skill-bar-css {
-    display: inline-block;
-    position: absolute;
-    width: 201px;
-    height: 10px;
-    background: var(--blue-color);
-}
-
-.skill-bar-js {
-    display: inline-block;
-    position: absolute;
-    width: 230px;
-    height: 10px;
-    background: var(--blue-color);
-}
-
-.skill-bar-react {
-    display: inline-block;
-    position: absolute;
-    width: 201px;
-    height: 10px;
-    background: var(--blue-color);
-}
-
-/*      End of Skill bars */
-/* End of Skills (mobile vesrion)*/
 /* TODO:
-    skills-portrait
-    proyects-select-1
-    development-portrait
-    experience-portrait
-    certificates-portrait
+    Desktop
 */
+
+@media only screen and (min-width: 1100px) {
+
+    /* Hide mobile view elements */
+    .desktop-hide {
+        display: none;
+    }
+
+
+    .mobile-view {
+        padding: unset;
+        width: unset;
+        min-width: unset;
+        max-width: unset;
+    }
+
+    #paginate {
+        grid-area: paginate;
+    }
+
+    #portfolio {
+        display: grid;
+        row-gap: 1.5rem;
+        column-gap: 32px;
+        grid-template-areas:
+            'profile                profile'
+            'skills                 development-portrait-2'
+            'certificates           development-portrait-2'
+            'certificates           experience'
+            'select-proyect         select-proyect'
+            'section-development    section-development'
+            'paginate               paginate';
+
+        width: 1512px;
+        height: 2257px;
+        background-color: var(--bg-color);
+        padding: 1rem 2rem;
+        justify-content: unset;
+    }
+
+}
