@@ -1,7 +1,6 @@
 /* TODO:
         - División de archivos CSS (variables, componentes) 
         - Aplicación de nomenclatura BEM
-        - Pasar fonts de px a rem
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
@@ -15,6 +14,7 @@
 
 body {
     font-family: Montserrat;
+    background-color: var(--bg-color);
 }
 
 li {
@@ -32,7 +32,6 @@ li {
         'development'
         'experience'
         'certificates';
-    background-color: var(--bg-color);
     padding: 1rem;
     justify-content: center;
 }
@@ -41,9 +40,8 @@ li {
     background-color: var(--white-color);
     border-radius: 0.75rem;
     padding: 1rem;
-    width: 100%;
-    min-width: 328px;
-    max-width: 462px;
+    min-width: 20.5rem;
+    max-width: 28.875rem;
 }
 
 /* TODO:
@@ -57,7 +55,6 @@ li {
         display: none;
     }
 
-
     .mobile-view {
         padding: unset;
         width: unset;
@@ -70,9 +67,7 @@ li {
     }
 
     #portfolio {
-        display: grid;
-        row-gap: 1.5rem;
-        column-gap: 32px;
+        column-gap: 2rem;
         grid-template-areas:
             'profile                profile'
             'skills                 development-portrait-2'
@@ -82,11 +77,10 @@ li {
             'section-development    section-development'
             'paginate               paginate';
 
-        width: 1512px;
-        height: 2257px;
-        background-color: var(--bg-color);
+        margin: 0 auto;
+        width: 94.5rem;
+        height: 141.0625rem;
         padding: 1rem 2rem;
-        justify-content: unset;
     }
 
 }

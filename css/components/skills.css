@@ -1,18 +1,13 @@
 /* Skills (mobile vesrion)*/
 #skills {
     display: flex;
-    padding: 16px;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
+    gap: 1rem;
     grid-area: skills;
 }
 
 #skills-title {
     color: var(--gray2-color);
-
-    display: flex;
-    align-items: center;
     align-self: stretch;
 
     /* Titulo */
@@ -23,17 +18,13 @@
 #skills-list {
     display: flex;
     flex-direction: column;
-    align-self: stretch;
 }
 
 .skills-ul {
     display: flex;
-    padding: 8px 0px;
+    padding: 0.5rem 0;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 8px;
-    align-self: stretch;
+    gap: 0.5rem;
 }
 
 .skills-ul>li {
@@ -45,24 +36,23 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    align-self: stretch;
 }
 
 /*      Skill bars */
 .gray-bar {
     display: flex;
     width: 60.466%;
-    min-width: 179px;
-    max-width: 260px;
-    height: 10px;
+    min-width: 11.188rem;
+    max-width: 16.25rem;
+    height: 0.625rem;
     background: var(--gray3-color);
 }
 
 .skill-bar-html {
     position: absolute;
     width: 46.56%;
-    min-width: 167px;
-    max-width: 230px;
+    min-width: 10.438rem;
+    max-width: 14.375rem;
     height: inherit;
     background: var(--blue-color);
 }
@@ -70,8 +60,8 @@
 .skill-bar-css {
     position: absolute;
     width: 40.689%;
-    min-width: 146px;
-    max-width: 201px;
+    min-width: 9.125rem;
+    max-width: 12.563rem;
     height: inherit;
     background: var(--blue-color);
 }
@@ -79,8 +69,8 @@
 .skill-bar-js {
     position: absolute;
     width: 46.56%;
-    min-width: 167px;
-    max-width: 230px;
+    min-width: 10.438rem;
+    max-width: 14.375rem;
     height: inherit;
     background: var(--blue-color);
 }
@@ -88,8 +78,8 @@
 .skill-bar-react {
     position: absolute;
     width: 40.689%;
-    min-width: 146px;
-    max-width: 201px;
+    min-width: 9.125rem;
+    max-width: 12.563rem;
     height: inherit;
     background: var(--blue-color);
 }
@@ -102,7 +92,7 @@
         align-items: unset;
         gap: unset;
 
-        width: 44.25rem;
+        min-width: 44.25rem;
         align-self: flex-start;
     }
 
@@ -115,8 +105,9 @@
 
     #skills-list {
         display: flex;
-        width: 29.6875rem;
-        padding: 0px 1rem;
+        width: 67.29%;
+        min-width: 29.6875rem;
+        padding: 0 1rem;
         margin-bottom: 3.19rem;
         align-self: center;
         justify-content: center;
@@ -125,16 +116,15 @@
 
     #skills>div>ul {
         display: flex;
-        padding: 8px 0px;
+        padding: 0.5rem 0;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap: 8px;
+        gap: 0.5rem;
         align-self: stretch;
     }
 
     #skills>div>ul>li {
-
         display: flex;
         justify-content: space-between;
         align-items: center;

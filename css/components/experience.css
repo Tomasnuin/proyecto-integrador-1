@@ -5,8 +5,8 @@ CLEAN THIS - VERY IMPORTANT!
 
 .experience {
     display: flex;
-    min-width: 328px;
-    height: 329px;
+    min-width: 20.5rem;
+    height: 20.563rem;
     flex-direction: column;
     gap: 1rem;
     grid-area: experience;
@@ -38,7 +38,6 @@ CLEAN THIS - VERY IMPORTANT!
     display: flex;
     padding: 0.25rem;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     gap: 0.375rem;
     flex: 1 0 0;
@@ -53,7 +52,6 @@ CLEAN THIS - VERY IMPORTANT!
     display: flex;
     padding: 0.25rem;
     flex-direction: column;
-    align-items: flex-start;
     gap: 0.375rem;
 }
 
@@ -77,13 +75,11 @@ CLEAN THIS - VERY IMPORTANT!
 
 }
 
-/* Hide desktop view elements */
-.mobile-hide {
+.experience-hide {
     display: none;
 }
 
 @media only screen and (min-width: 1100px) {
-
 
     .experience {
         display: flex;

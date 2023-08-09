@@ -1,11 +1,8 @@
-.hide-paginate {
+.paginate-hide {
     display: none;
 }
 
 @media only screen and (min-width: 1100px) {
-    .hide-paginate {
-        display: unset;
-    }
 
     #paginate {
         margin: auto;
@@ -23,18 +20,35 @@
         padding: 0.5rem;
         justify-content: center;
         align-items: center;
+
+        background-color: var(--bg-color);
+        border-radius: 0.25rem;
+        border: 1px solid var(--gray2-color);
+
+        font-family: inherit;
+        font-weight: 500;
     }
 
-    .ellipsis {
+    .btn-ellipsis {
         display: flex;
         width: 2.125rem;
         height: 2.125rem;
         padding: 0.25rem 0.125rem;
         justify-content: space-between;
         align-items: center;
+        border-radius: 0.25rem;
+        border: none;
     }
 
-    .selected {
+    .dot {
+        width: 0.5rem;
+        height: 0.5rem;
+        flex-shrink: 0;
+
+        fill: var(--gray2-color);
+    }
+
+    .btn-selected {
         display: flex;
         width: 2.125rem;
         height: 2.125rem;
@@ -48,5 +62,11 @@
 
         color: #FFF;
         text-align: center;
+    }
+
+    .btn-next {
+        border: 1px solid var(--blue-color);
+        color: var(--blue-color);
+
     }
 }

@@ -21,7 +21,7 @@
 .certificates-image {
     width: 100%;
     height: 16.25rem;
-    border-radius: 12px;
+    border-radius: 0.75rem;
     border: 1px solid var(--gray3-color);
     object-fit: contain;
     padding: 0 1.3rem;
@@ -48,8 +48,7 @@
     line-height: 1.063rem;
 }
 
-/* Hide desktop view elements */
-.mobile-hide {
+.certificates-hide {
     display: none;
 }
 
@@ -58,7 +57,7 @@
 @media only screen and (min-width: 1100px) {
 
     /* Hide desktop view elements */
-    .mobile-hide {
+    .certificates-hide {
         display: flex;
     }
 
@@ -78,6 +77,7 @@
         flex-direction: column;
         align-self: center;
         gap: 1rem;
+        flex-shrink: 0;
 
     }
 
@@ -85,16 +85,15 @@
         display: flex;
         flex-direction: column;
 
-
         padding: .5rem;
         justify-content: center;
-        gap: 8px;
+        gap: 0.5rem;
         flex: 1 0 0;
         align-self: stretch;
         min-height: 0;
 
 
-        border-radius: 12px;
+        border-radius: 0.75rem;
         border: 1px solid var(--gray3-color);
     }
 
@@ -109,6 +108,6 @@
 
         object-fit: contain;
         padding: 0 1.3rem;
-        height: 119px;
+        height: 7.4375rem;
     }
 }

@@ -1,7 +1,6 @@
 /* Profile (mobile version) */
 #profile {
     display: flex;
-    flex-direction: column;
     grid-area: profile;
 }
 
@@ -11,44 +10,35 @@
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-    align-self: stretch;
 }
 
 #profile-picture {
     width: 80%;
-    max-width: 350px;
-    height: 340px;
+    max-width: 21.875rem;
+    height: 21.25rem;
     object-fit: cover;
     object-position: 0 20%;
-    flex-shrink: 0;
     border-radius: 0.75rem;
 }
 
 #profile-info {
     display: flex;
-    padding: 16px;
+    padding: 1rem;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 24px;
-    flex: 1 0 0;
-    align-self: stretch;
+    gap: 1.5rem;
 }
 
 #profile-job-contact {
     display: flex;
-    width: 268px;
+    width: 16.75rem;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 16px;
+    gap: 1rem;
 }
 
 .frame-name-job {
     display: flex;
     padding: 0.5rem;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
     gap: 0.5rem;
 }
 
@@ -70,7 +60,6 @@
     display: flex;
     padding: 0.5rem;
     flex-direction: column;
-    align-items: flex-start;
     gap: 0.5rem;
 }
 
@@ -90,96 +79,48 @@
     font-size: 1.125rem;
 }
 
+.introduction-text-hide {
+    display: none;
+}
+
 /* End of Profile (mobile version) */
 
 @media only screen and (min-width: 1100px) {
-    #profile {
+    .introduction-text-hide {
         display: unset;
-        margin-bottom: auto;
+    }
+
+    #profile {
         margin-top: auto;
     }
 
     #profile-frame {
-        max-height: unset;
         flex-direction: row;
         padding: 2rem;
-        justify-content: center;
-        align-items: center;
         gap: 2rem;
     }
 
     #profile-picture {
-        max-width: unset;
-        height: unset;
-
-        object-fit: cover;
-        object-position: 0 20%;
-        border-radius: 0.75rem;
         width: 17.1875rem;
         height: 16.5625rem;
     }
 
     #profile-info {
-        padding: unset;
-        gap: unset;
+        padding: 0;
 
-        display: flex;
         height: 14rem;
-        flex-direction: column;
         justify-content: space-between;
-        align-items: flex-start;
-        flex: 1 0 0;
-        align-self: center;
     }
 
     #profile-job-contact {
-        align-items: unset;
-        gap: unset;
-
-        display: flex;
-        flex-direction: row;
-
         width: 41.92106rem;
+        flex-direction: row;
         justify-content: space-between;
     }
 
-    .frame-name-job {
-        display: flex;
-        padding: 0.5rem;
-        flex-direction: column;
-        justify-content: center;
-        align-items: flex-start;
-        gap: 0.5rem;
-    }
-
-    .name {
-        width: 7.21381rem;
-        height: 1.53363rem;
-        font-size: 1.5rem;
-        font-weight: 600;
-    }
-
-    .job-title {
-        width: 13.29606rem;
-        height: 1.16344rem;
-        color: var(--gray1-color);
-        font-size: 1.125rem;
-    }
-
-    .frame-contact {
-        display: flex;
-        padding: 0.5rem;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.5rem;
-    }
-
     #introduction {
-        color: var(--gray1-color);
         width: 40.625rem;
         height: 6.875rem;
-        flex-shrink: 0;
-        font-size: 1.125rem;
     }
 
     #profile-desktop-text {
