@@ -88,18 +88,11 @@
 
 @media only screen and (min-width: 1100px) {
     #skills {
-        padding: unset;
-        align-items: unset;
-        gap: unset;
-
         min-width: 44.25rem;
         align-self: flex-start;
     }
 
     #skills-title {
-        display: block;
-        align-self: unset;
-
         padding: 1rem;
     }
 
