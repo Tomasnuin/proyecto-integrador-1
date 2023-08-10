@@ -90,10 +90,6 @@
         display: unset;
     }
 
-    #profile {
-        margin-top: auto;
-    }
-
     #profile-frame {
         flex-direction: row;
         padding: 2rem;

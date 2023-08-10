@@ -68,6 +68,7 @@ li {
 
     #portfolio {
         column-gap: 2rem;
+        grid-auto-rows: 20.5625rem 17.25rem 21.5625rem 20.0625rem auto 38.3125rem 3.625rem;
         grid-template-areas:
             'profile                profile'
             'skills                 development-portrait-2'

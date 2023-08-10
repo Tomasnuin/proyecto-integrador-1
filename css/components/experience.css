@@ -85,12 +85,11 @@ CLEAN THIS - VERY IMPORTANT!
         display: flex;
         min-width: unset;
 
-        height: 20.5625rem;
+        height: 20.0625rem;
         padding: 1rem;
         align-items: flex-start;
         flex-shrink: 0;
         align-self: stretch;
-        margin-bottom: 0.14rem;
     }
 
     .experience-body {
