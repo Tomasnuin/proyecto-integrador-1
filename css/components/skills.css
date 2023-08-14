@@ -22,7 +22,7 @@
 
 .skills-ul {
     display: flex;
-    padding: 0.5rem 0;
+    padding: 8px 0;
     flex-direction: column;
     gap: 0.5rem;
 }
@@ -90,7 +90,7 @@
     #skills {
         min-width: 44.25rem;
         align-self: flex-start;
-        padding: 1rem;
+        padding: 16px;
     }
 
     #skills-title {
@@ -101,8 +101,8 @@
         display: flex;
         width: 67.29%;
         min-width: 29.6875rem;
-        padding: 0 1rem;
-        margin-bottom: 2.19rem;
+        padding: 0 16px;
+        margin-bottom: 35.04px;
         align-self: center;
         justify-content: center;
         align-items: center;
@@ -111,7 +111,7 @@
 
     #skills>div>ul {
         display: flex;
-        padding: 0.5rem 0;
+        padding: 8px 0;
         flex-direction: column;
         justify-content: center;
         align-items: center;

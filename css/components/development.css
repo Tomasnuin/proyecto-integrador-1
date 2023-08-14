@@ -30,7 +30,7 @@ CLEAN THIS - VERY IMPORTANT!
 
 .project-tags-title {
     display: flex;
-    padding: 0.5rem 0rem;
+    padding: 8px 0rem;
     flex-direction: column;
     gap: 1rem;
 }
@@ -104,7 +104,7 @@ CLEAN THIS - VERY IMPORTANT!
     .development-portrait-2 {
         display: flex;
         height: 40.3125rem;
-        padding: 1rem;
+        padding: 16px;
 
         grid-area: development-portrait-2;
     }
@@ -116,7 +116,7 @@ CLEAN THIS - VERY IMPORTANT!
 
     .development-portrait {
         display: flex;
-        padding: 1rem;
+        padding: 16px;
         flex-direction: column;
         flex: 1 0 0;
         align-self: stretch;

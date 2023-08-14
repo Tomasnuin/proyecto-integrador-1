@@ -23,7 +23,7 @@
 
 #profile-info {
     display: flex;
-    padding: 1rem;
+    padding: 16px;
     flex-direction: column;
     gap: 1.5rem;
 }
@@ -37,7 +37,7 @@
 
 .frame-name-job {
     display: flex;
-    padding: 0.5rem;
+    padding: 8px;
     flex-direction: column;
     gap: 0.5rem;
 }
@@ -58,7 +58,7 @@
 
 .frame-contact {
     display: flex;
-    padding: 0.5rem;
+    padding: 8px;
     flex-direction: column;
     gap: 0.5rem;
 }
@@ -92,7 +92,7 @@
 
     #profile-frame {
         flex-direction: row;
-        padding: 2rem;
+        padding: 32px;
         gap: 2rem;
     }
 
@@ -121,6 +121,6 @@
 
     #profile-desktop-text {
         display: block;
-        margin-top: 1.3rem;
+        margin-top: 20.8px;
     }
 }

@@ -21,14 +21,14 @@ CLEAN THIS - VERY IMPORTANT!
 
 .experience-body {
     display: flex;
-    padding: 0 1rem;
+    padding: 0 16px;
     flex: 1 0 0;
 }
 
 .experience-info {
     display: flex;
     align-items: center;
-    padding: 0.5rem;
+    padding: 8px;
 
     border-radius: 0.75rem;
     border: 1px solid var(--gray3-color);
@@ -36,7 +36,7 @@ CLEAN THIS - VERY IMPORTANT!
 
 .experience-header {
     display: flex;
-    padding: 0.25rem;
+    padding: 4px;
     flex-direction: column;
     align-items: center;
     gap: 0.375rem;
@@ -50,7 +50,7 @@ CLEAN THIS - VERY IMPORTANT!
 
 .experience-job-title-duration {
     display: flex;
-    padding: 0.25rem;
+    padding: 4px;
     flex-direction: column;
     gap: 0.375rem;
 }
@@ -86,7 +86,7 @@ CLEAN THIS - VERY IMPORTANT!
         min-width: unset;
 
         height: 20.0625rem;
-        padding: 1rem;
+        padding: 16px;
         align-items: flex-start;
         flex-shrink: 0;
         align-self: stretch;
@@ -117,7 +117,7 @@ CLEAN THIS - VERY IMPORTANT!
         flex: unset;
 
         display: flex;
-        padding: 0.25rem;
+        padding: 4px;
         justify-content: center;
         align-items: center;
         gap: 0.375rem;
@@ -126,7 +126,7 @@ CLEAN THIS - VERY IMPORTANT!
 
     .experience-job-title-duration {
         display: flex;
-        padding: 0.25rem;
+        padding: 4px;
         flex-direction: column;
         align-items: flex-start;
         gap: 0.375rem;
