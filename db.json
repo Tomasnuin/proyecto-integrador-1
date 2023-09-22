@@ -1,0 +1,174 @@
+{
+    "Proyectos": 
+    {
+        "Responsivo":[
+            {  
+                "Titulo": "Título R-01",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-02",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-03",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-04",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-05",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-06",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-07",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-08",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título R-09",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            }],
+
+        "JavaScript":[
+            {  
+                "Titulo": "Título JS-01",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-02",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-03",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-04",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-05",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-06",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-07",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-08",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título JS-09",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            }],
+
+        "React":[
+            {  
+                "Titulo": "Título RE-01",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-02",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-03",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-04",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-05",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-06",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-07",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-08",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            },
+            {  
+                "Titulo": "Título RE-09",
+                "Etiquetas":["HTML", "CSS", "responsive"],
+                "Descripcion":"In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+                "Imagen":"https://s3-alpha-sig.figma.com/img/35b2/3c60/e6338242e8e7d477d182eea1b7ab596b?Expires=1696204800&Signature=CcWUmDdFYCBQSOZB1NhaseL1lIKWUPbuGXBJjWMR-kL54JBoF2UCGqMLqRFFVfc0FUQfG3CY-jm~~J9oaUrPqwTZxOFrByGqvAltd9JtUo-WN8wRVS~~PoxWnqziD-M-bPkU9eYrZ7fDY8qjxSoud~lsD6CvjFt9ssSMgzI-FcpJLEf92xv7c8OtCynmnyBXkwAIozU5GU5g6ypZAtmL4Uf2NbhMy9jlIzUU33vb073ts0-MFyoKJNG5DVdA6oYcWuKjC-xaJ0M5xZDEDh6pV72coHK3iAHe~wBNSWpwAElMX-Z5feuj0tsc0tuFJNzRbgLC-Ymgx3JDOCaGfPMflQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+            }]
+    },
+    "Certificados": [{},{}],
+    "Experiencias": [{},{}]
+}
