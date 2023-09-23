@@ -1,6 +1,5 @@
-{"Proyectos":
-[
-{"Responsivo":[
+{
+"Responsivo":[
 {"id": 0,"Titulo":"Título R-01","Etiquetas":["HTML","CSS","responsive"]},
 {"id": 1,"Titulo":"Título R-01","Etiquetas":["HTML","CSS","responsive"]},
 {"id": 2,"Titulo":"Título R-02","Etiquetas":["HTML","CSS","responsive"]},
@@ -10,8 +9,8 @@
 {"id": 6,"Titulo":"Título R-06","Etiquetas":["HTML","CSS","responsive"]},
 {"id": 7,"Titulo":"Título R-07","Etiquetas":["HTML","CSS","responsive"]},
 {"id": 8,"Titulo":"Título R-08","Etiquetas":["HTML","CSS","responsive"]},
-{"id": 9,"Titulo":"Título R-09","Etiquetas":["HTML","CSS","responsive"]}]},
-{"JavaScript":[
+{"id": 9,"Titulo":"Título R-09","Etiquetas":["HTML","CSS","responsive"]}],
+"JavaScript":[
 {"id": 10,"Titulo":"Título JS-01","Etiquetas":["HTML","CSS","JavaScript"]},
 {"id": 11,"Titulo":"Título JS-01","Etiquetas":["HTML","CSS","JavaScript"]},
 {"id": 12,"Titulo":"Título JS-02","Etiquetas":["HTML","CSS","JavaScript"]},
@@ -21,8 +20,8 @@
 {"id": 16,"Titulo":"Título JS-06","Etiquetas":["HTML","CSS","JavaScript"]},
 {"id": 17,"Titulo":"Título JS-07","Etiquetas":["HTML","CSS","JavaScript"]},
 {"id": 18,"Titulo":"Título JS-08","Etiquetas":["HTML","CSS","JavaScript"]},
-{"id": 19,"Titulo":"Título JS-09","Etiquetas":["HTML","CSS","JavaScript"]}]},
-{"React":[
+{"id": 19,"Titulo":"Título JS-09","Etiquetas":["HTML","CSS","JavaScript"]}],
+"React":[
 {"id": 20,"Titulo":"Título RE-01","Etiquetas":["HTML","CSS","React"]},
 {"id": 21,"Titulo":"Título RE-01","Etiquetas":["HTML","CSS","React"]},
 {"id": 22,"Titulo":"Título RE-02","Etiquetas":["HTML","CSS","React"]},
@@ -32,8 +31,7 @@
 {"id": 26,"Titulo":"Título RE-06","Etiquetas":["HTML","CSS","React"]},
 {"id": 27,"Titulo":"Título RE-07","Etiquetas":["HTML","CSS","React"]},
 {"id": 28,"Titulo":"Título RE-08","Etiquetas":["HTML","CSS","React"]},
-{"id": 29,"Titulo":"Título RE-09","Etiquetas":["HTML","CSS","React"]}]}
-],
+{"id": 29,"Titulo":"Título RE-09","Etiquetas":["HTML","CSS","React"]}],
 "Certificados":[{},{}],
 "Experiencias":[{},{}]
 }
