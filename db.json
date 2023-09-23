@@ -1,6 +1,6 @@
 {"Proyectos":
-{
-"Responsivo":[
+[
+{"Responsivo":[
 {"Titulo":"Título R-01","Etiquetas":["HTML","CSS","responsive"]},
 {"Titulo":"Título R-02","Etiquetas":["HTML","CSS","responsive"]},
 {"Titulo":"Título R-03","Etiquetas":["HTML","CSS","responsive"]},
@@ -9,8 +9,8 @@
 {"Titulo":"Título R-06","Etiquetas":["HTML","CSS","responsive"]},
 {"Titulo":"Título R-07","Etiquetas":["HTML","CSS","responsive"]},
 {"Titulo":"Título R-08","Etiquetas":["HTML","CSS","responsive"]},
-{"Titulo":"Título R-09","Etiquetas":["HTML","CSS","responsive"]}],
-"JavaScript":[
+{"Titulo":"Título R-09","Etiquetas":["HTML","CSS","responsive"]}]},
+{"JavaScript":[
 {"Titulo":"Título JS-01","Etiquetas":["HTML","CSS","JavaScript"]},
 {"Titulo":"Título JS-02","Etiquetas":["HTML","CSS","JavaScript"]},
 {"Titulo":"Título JS-03","Etiquetas":["HTML","CSS","JavaScript"]},
@@ -19,8 +19,8 @@
 {"Titulo":"Título JS-06","Etiquetas":["HTML","CSS","JavaScript"]},
 {"Titulo":"Título JS-07","Etiquetas":["HTML","CSS","JavaScript"]},
 {"Titulo":"Título JS-08","Etiquetas":["HTML","CSS","JavaScript"]},
-{"Titulo":"Título JS-09","Etiquetas":["HTML","CSS","JavaScript"]}],
-"React":[
+{"Titulo":"Título JS-09","Etiquetas":["HTML","CSS","JavaScript"]}]},
+{"React":[
 {"Titulo":"Título RE-01","Etiquetas":["HTML","CSS","React"]},
 {"Titulo":"Título RE-02","Etiquetas":["HTML","CSS","React"]},
 {"Titulo":"Título RE-03","Etiquetas":["HTML","CSS","React"]},
@@ -29,8 +29,8 @@
 {"Titulo":"Título RE-06","Etiquetas":["HTML","CSS","React"]},
 {"Titulo":"Título RE-07","Etiquetas":["HTML","CSS","React"]},
 {"Titulo":"Título RE-08","Etiquetas":["HTML","CSS","React"]},
-{"Titulo":"Título RE-09","Etiquetas":["HTML","CSS","React"]}]
-},
+{"Titulo":"Título RE-09","Etiquetas":["HTML","CSS","React"]}]}
+],
 "Certificados":[{},{}],
 "Experiencias":[{},{}]
 }
