@@ -63,12 +63,15 @@
         text-align: center;
     }
 
-    .btn-next {
+    .btn-adjacent {
         border: 1px solid var(--blue-color);
         color: var(--blue-color);
 
     }
 
+    .btn-hide {
+        display: none;
+    }
 
     .btn:hover {
         cursor: pointer;

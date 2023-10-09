@@ -85,7 +85,7 @@ button {
 }
 
 .button-code:hover,
-.btn-next:hover {
+.btn-adjacent:hover {
     cursor: pointer;
     background: #c9d0e0;
 }
