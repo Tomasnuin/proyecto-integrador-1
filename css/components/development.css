@@ -107,6 +107,7 @@
     .project-image {
         height: 100%;
         width: 100%;
+        max-height: unset;
     }
 
     .development-portrait {
