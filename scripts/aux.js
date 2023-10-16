@@ -38,7 +38,7 @@ function renderPaginate(length, reset) {
         paginateButtons[1].classList.remove("btn-hide")
         const pageSibling = paginateButtons[2];
         pageSibling.classList.remove("btn-hide")
-        if (paginateButtons.length > 3) {
+        if (paginateButtons.length > 4) {
             pageSibling.insertAdjacentElement("afterend", createBotonElipsis("after"));
         }
         if (pageSibling && paginateButtons.length > 4) {
